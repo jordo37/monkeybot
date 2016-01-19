@@ -8,5 +8,8 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-guys",
+  "hubot-chicago-sewage",
+  "hubot-fitbit-leaders"
 ]
