@@ -13,5 +13,6 @@
   "hubot-chicago-sewage",
   "hubot-fitbit-leaders",
   "hubot-pugme",
-  "hubot-google-images"
+  "hubot-google-images",
+  "bing-images.coffee"
 ]
