@@ -8,11 +8,11 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-scripts",
   "hubot-shipit",
   "hubot-guys",
   "hubot-chicago-sewage",
   "hubot-fitbit-leaders",
   "hubot-pugme",
-  "hubot-google-images",
-  "bing-images.coffee"
+  "hubot-google-images"
 ]
