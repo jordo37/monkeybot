@@ -13,7 +13,7 @@
 # Author:
 #   Brandon Satrom
 
-bingAccountKey = process.env.HUBOT_BING_ACCOUNT_KEY
+bingAccountKey = "VmmFN3o0N/TI2wn8B7ZRL9RJHK9Zl9w5hCkoQuziKGk"
 unless bingAccountKey
   throw "You must set HUBOT_BING_ACCOUNT_KEY in your environment vairables"
 
